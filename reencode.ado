@@ -24,7 +24,6 @@ program reencode, rclass
 			}
 		}
 		di as text "all variable labels converted to `encoding'"
-
 	}
 	if "`variables'" != "" {
 		qui {
